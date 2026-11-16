@@ -55,7 +55,6 @@ Variables Used:
 - Matplotlib
 - Seaborn
 - Scikit-learn
-- Process
 
 Tahapan analisis yang dilakukan dalam project ini:
 
