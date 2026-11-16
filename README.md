@@ -1,12 +1,8 @@
-**Final Porject Data Science - Understanding Zara’s Sales Drivers Through Predictive Modelling**
+**Understanding Zara’s Sales Drivers Through Predictive Modelling**
 -
 Nama : Zidny Ilma Zain
 
-Bootcamp : Dibimbing.id
-
 Program : Data Science
-
-Batch : 35
 
 **Business Problem**
 -
